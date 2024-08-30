@@ -2,8 +2,7 @@
 <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
 ***Spring을 이용한 백엔드 프로그래밍을 이해하기 위해 인스타그램 클론코딩을 진행합니다.***
-### 참여자
-###  D
+
 ### IA
 |이름|기능설명|비고|
 |------|---|---|
