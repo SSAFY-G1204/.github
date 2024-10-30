@@ -1,7 +1,7 @@
-# **Instagram clone coding**
+# **instagram clone coding**
 <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
-***Spring을 이용한 백엔드 프로그래밍을 이해하기 위해 인스타그램 클론코딩을 진행합니다.***
+> ***Spring boot, JPA, Security 이용한 백엔드 프로그래밍을 이해하기 위해 인스타그램 클론코딩을 진행합니다.***
 
 ### IA
 |이름|기능설명|비고|
@@ -79,6 +79,16 @@
 
 <details>
   <summary><b>5. Spring Security를 이용한 인증, 인가 처리</b></summary>
+  <div markdown="1">
+    <ul>
+   
+    </ul>
+  </div>
+</details>
+
+
+<details>
+  <summary><b>github action을 이용한 ci/cd 작업</b></summary>
   <div markdown="1">
     <ul>
    
